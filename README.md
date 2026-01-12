@@ -111,6 +111,7 @@ tqdm==4.66.1
 Pillow==10.2.0
 h5py==3.9.0
 joblib==1.3.2
+torch
 ```
 
 ### Step 3: Install Packages
